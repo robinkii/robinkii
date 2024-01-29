@@ -4,9 +4,9 @@ My name is Robin and I am a full-stack web developer residing in Kentucky.
 
 ### About Me 🙋‍♂️
 
-Hey there! I'm a Marine Corps vet 🎖️, a music lover 🎵, Otaku ⚔️, cosplay enthusiast, and basketball junkie 🏀. Born in Jacksonville, FL, but raised all over the place as a military brat.
+Hey there! I'm a Marine Corps vet 🎖️, a music lover 🎵, an Otaku ⚔️, a cosplay enthusiast, and a basketball junkie 🏀. Born in Jacksonville, FL, but raised all over the place as a military brat.
 
-I once tried the whole psychology degree thing, but life happened, and I quickly realized it wasn't my gig. Now, I'm back in action, reinventing myself as a developer and soaking up knowledge like a sponge.
+I once tried the psychology degree thing, but life happened, and I quickly realized it wasn't my gig. Now, I'm back in action, reinventing myself as a developer and soaking up knowledge like a sponge.
 
 Life's thrown some curveballs, but I've got this killer resilience that keeps me pushing forward. I truly believe the sky's the limit, no matter what comes my way. Every stumble in life is just another chance to get stronger and smarter—like those sore muscles after a good workout or turning life's lemons into some kind of awesome lemonade.
 
@@ -55,8 +55,6 @@ So, stick around, watch me pick up new skills, see me evolve, and let's get to k
 
 ##### I am currently learning: 
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
